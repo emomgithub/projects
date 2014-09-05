@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-sdfjahspdofjh
-=======
-"clone2 new cloen 2" 
->>>>>>> 6546a145d92d16308bc6e426762829356ac96430
-=======
 <!DOCTYPE html>
 <html>
 <head>
@@ -45,4 +38,4 @@ sdfjahspdofjh
     <?php endif; ?>
 </body>
 </html>
->>>>>>> 8646d6fb7c6a1a73c602c4fac1a61027aa0a9fcd
+
