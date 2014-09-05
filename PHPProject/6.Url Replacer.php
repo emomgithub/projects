@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>PHP URL Replacer</title>
+    <title>URL Replacer</title>
     <meta charset="UTF-8">
 </head>
 <body>
