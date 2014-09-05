@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Word Mapper</title>
+    <title>Word Mapping PHP</title>
     <meta charset="UTF-8">
     <style>
         table, td {
